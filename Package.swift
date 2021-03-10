@@ -41,28 +41,28 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.0/GoogleMaps.xcframework.zip",
-            checksum: "40cae423b3835ab71f96c1290b0ef7bb35a474dfc4cb8c8b604467a046070c2c"
+            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.1/GoogleMaps.xcframework.zip",
+            checksum: "d1a2e759da9650c7535d3e9c7a730ffa8814151a6d827ca80de70d5a2bdf8712"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.0/GoogleMapsBase.xcframework.zip",
-            checksum: "da8f41cf9526a25507a723dd2807aaa6528d11af6897b76071d0d67778d823ec"
+            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.1/GoogleMapsBase.xcframework.zip",
+            checksum: "018a84e495bf5c64d611b8f49596be9799200ba77d630b01575e5adffcd706a5"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.0/GoogleMapsCore.xcframework.zip",
-            checksum: "03645840426294804817ec6b78f16e6f40e2b261abd12296730ad87f05659d1e"
+            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.1/GoogleMapsCore.xcframework.zip",
+            checksum: "dabdda7ef6c93d9f61fe783a3176a5565fa9e9ff9fc01caf2e9664bd2eb3a709"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
-            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.0/GoogleMapsM4B.xcframework.zip",
-            checksum: "b99e287d6561fa7c41b416818ad706f918acf7109639572ce070e2c5eddfb1b3"
+            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.1/GoogleMapsM4B.xcframework.zip",
+            checksum: "a9738ae2cc932c02a310b7abab4daacb1de6812efe97bb85e31147d787390660"
         ),
         .binaryTarget(
             name: "GooglePlaces",
-            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.0/GooglePlaces.xcframework.zip",
-            checksum: "b4bbf25d6664e6188ecd2c5e488d6e5f2d067cc06b63e67c4368e9bc0fd7b0d6"
+            url: "https://github.com/goncharik/GoogleMaps-SPM/releases/download/4.1.1/GooglePlaces.xcframework.zip",
+            checksum: "0d680780d6704026e82f0da0bf0ebeb0ab3cf9b608333cfc71aee45af422b28d"
         )
     ]
 )
